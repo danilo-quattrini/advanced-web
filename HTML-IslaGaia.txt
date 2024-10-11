@@ -1,0 +1,1879 @@
+
+<!DOCTYPE html>
+<html lang="pt-pt" dir="ltr"
+	  class='com_content view-featured itemid-340  homepage j38 mm-hover'>
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K4F93CC');</script>
+<!-- End Google Tag Manager -->
+	<base href="https://www.islagaia.pt/pt/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Instituto Politécnico de Gestão e tecnologia" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Início - ISLA Gaia | Instituto Politécnico de Gestão e Tecnologia</title>
+	<link href="/pt/?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/pt/?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="https://www.islagaia.pt/pt/" rel="alternate" hreflang="pt-PT" />
+	<link href="https://www.islagaia.pt/en/" rel="alternate" hreflang="en-GB" />
+	<link href="/templates/ja_healthcare/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="https://www.islagaia.pt/pt/component/search/?Itemid=340&amp;format=opensearch" rel="search" title="Pesquisar ISLA Gaia | Instituto Politécnico de Gestão e Tecnologia" type="application/opensearchdescription+xml" />
+	<link href="/assets/css/css-52265-32370.css" rel="stylesheet" type="text/css" media="all" attribs="[]" />
+	<link href="/assets/css/css-04e75-32373.css" rel="stylesheet" type="text/css" media="all" attribs="[]" />
+	<link href="/assets/css/css-82753-75638.css" rel="stylesheet" type="text/css" media="all" attribs="[]" />
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
+	<link href="/assets/css/css-a80a5-32371.css" rel="stylesheet" type="text/css" media="all" attribs="[]" />
+	<style type="text/css">
+.plg_system_eprivacy_module .plg_system_eprivacy_message {
+border:1px solid #a9a900;
+background-color:#ffffe1;
+padding:5px;
+}
+.plg_system_eprivacy_module .plg_system_eprivacy_message button.plg_system_eprivacy_agreed {
+color:#000;
+background-color:#0f0;
+}
+.plg_system_eprivacy_module .plg_system_eprivacy_message button.plg_system_eprivacy_declined {
+color:#fff;
+background-color:#f00;
+}
+.plg_system_eprivacy_module div.plg_system_eprivacy_accepted,
+.plg_system_eprivacy_module div.plg_system_eprivacy_declined {
+overflow:hidden;
+border: 1px solid #ccc;
+color: #999;
+vertical-align:middle;
+
+padding:5px;
+}
+.plg_system_eprivacy_module div.plg_system_eprivacy_accepted button,
+
+.plg_system_eprivacy_module div.plg_system_eprivacy_declined button {
+float:right;
+}.activebar-container {
+background-color:#ffffe1;
+border-bottom:1px solid #000000;
+color:#000;
+}
+.activebar-container p {
+margin:5px;
+text-align:left;
+}
+.activebar-container button {
+float:right;
+clear:none;
+margin:5px 10px;
+padding:5px 10px;
+}
+.activebar-container button.decline {
+color:#000;
+background-color:#ffffff;
+}
+.activebar-container button.accept {
+color:#000;
+background-color:#ffffff;
+}
+.activebar-container ul.links,.activebar-container ul.links li {
+display:block;
+}
+.activebar-container ul.links li {
+margin:0 5px;
+float:left;
+clear:none;
+}
+#plg_system_eprivacy { width:0px;height:0px;clear:none; BEHAVIOR: url(#default#userdata); }
+div.mod_search135 input[type="search"]{ width:auto; }
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"fd67e3265c129d5c0389cb4af171863b","system.paths":{"root":"","base":""},"joomla.jtext":{"PLG_SYS_EPRIVACY_MESSAGE":"ESTE WEBSITE UTILIZA COOKIES QUE TEM FUNCIONALIDADES QUE MELHORAM A SUA NAVEGACAO. AO CONTINUAR A NAVEGAR, ESTA A CONCORDAR COM A SUA UTILIZACAO.","PLG_SYS_EPRIVACY_POLICYTEXT":"View Privacy Policy","PLG_SYS_EPRIVACY_LAWLINK_TEXT":"View e-Privacy Directive Documents","PLG_SYS_EPRIVACY_AGREE":"ACEITO","PLG_SYS_EPRIVACY_DECLINE":"RECUSO","PLG_SYS_EPRIVACY_CONFIRMUNACCEPT":"Performing this action will remove all cookies set by this website.  Third party cookies will no longer communicate to their parent sites, but cannot be removed by this website and must be removed by other means.\n\nAre you sure you want to disable and remove cookies?"}}</script>
+	<script src="/assets/js/js-fa54a-64904.js" type="text/javascript"></script>
+	<script src="/media/plg_system_eprivacy/js/mthash.js" type="text/javascript"></script>
+	<script src="/media/plg_system_eprivacy/js/eprivacy.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+window.plg_system_eprivacy_options = {"displaytype":"ribbon","autoopen":true,"accepted":false,"policyurl":"\/pt\/declaracao-de-privacidade.html","lawlink":"","version":"3.8.10","root":"https:\/\/www.islagaia.pt\/"};
+
+	</script>
+	<link href="https://www.islagaia.pt/pt/" rel="alternate" hreflang="x-default" />
+
+	
+<!-- META FOR IOS & HANDHELD -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+	<style type="text/stylesheet">
+		@-webkit-viewport   { width: device-width; }
+		@-moz-viewport      { width: device-width; }
+		@-ms-viewport       { width: device-width; }
+		@-o-viewport        { width: device-width; }
+		@viewport           { width: device-width; }
+	</style>
+	<script type="text/javascript">
+		//<![CDATA[
+		if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+			var msViewportStyle = document.createElement("style");
+			msViewportStyle.appendChild(
+				document.createTextNode("@-ms-viewport{width:auto!important}")
+			);
+			document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+		}
+		//]]>
+	</script>
+<meta name="HandheldFriendly" content="true"/>
+<meta name="apple-mobile-web-app-capable" content="YES"/>
+<!-- //META FOR IOS & HANDHELD -->
+
+
+
+
+<!-- Le HTML5 shim and media query for IE8 support -->
+<!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<script type="text/javascript" src="/plugins/system/t3/base-bs3/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- You can add Google Analytics here or use T3 Injection feature -->
+
+    </head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K4F93CC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="t3-wrapper"> <!-- Need this wrapper for off-canvas menu. Remove if you don't use of-canvas -->
+  <div class="container-hd">
+    
+    
+	<!-- TOP BAR -->
+	<div class="t3-top-bar">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-2 col-md-2 top-left ">
+					
+				</div>
+
+				<div class="col-sm-10 col-md-10 top-right ">
+					<div class="right-info ">
+						
+
+<div class="custom"  >
+	<ul>
+<ul>
+<li><a href="https://secretaria.virtual.ensinolusofona.pt" target="_blank" rel="noopener">Secretaria NetPa</a></li>
+<li><a href="https://moodle.ensinolusofona.pt/" target="_blank" rel="noopener">Moodle</a></li>
+<li><a href="/pt/noticias/517-office365.html" target="_self">Office365</a></li>
+<li><a href="https://sites.google.com/islagaia.pt/islagaia?usp=sharing" target="_blank" rel="noopener">Intranet</a></li>
+<li><a href="https://colaborador.ensinolusofona.pt/mygiaf/Login.xhtml" target="_blank" rel="noopener">Portal do Colaborador</a></li>
+<li><a href="https://www.ensinolusofona.pt/pt/plano-de-genero-e-diversidade" target="_blank" rel="noopener">Plano de Género e Diversidade</a></li>
+<li><a class="vm-muted" href="https://www.facebook.com/GaiaISLA/" target="_blank" rel="noopener"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a class="vm-muted" href="https://www.instagram.com/islagaia_ipgt/" target="_blank" rel="noopener"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+<li><a class="vm-muted" href="https://www.linkedin.com/school/isla---instituto-polit%C3%A9cnico-de-gest%C3%A3o-e-tecnologia/?viewAsMember=true" target="_blank" rel="noopener"><i class="fa fa-linkedin" aria-hidden="true"></i> </a></li>
+<li><a class="vm-muted" href="https://api.whatsapp.com/send?phone=351934753637" target="_blank" rel="noopener"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
+<li><a class="vm-muted" href="https://www.youtube.com/channel/UC1NiEWwirOEpFxMHAsPr4nA" target="_blank" rel="noopener"><i class="fa fa-youtube" aria-hidden="true"></i> </a></li>
+</ul>
+</ul></div>
+
+					</div>
+
+											<!-- LANGUAGE SWITCHER -->
+						<div class="languageswitcherload">
+							<div class="mod-languages">
+
+	<ul class="lang-inline">
+									<li class="" dir="ltr">
+			<a href="/en/">
+							<img src="/media/mod_languages/images/en.gif" alt="English (UK)" title="English (UK)" />						</a>
+			</li>
+				</ul>
+
+</div>
+
+						</div>
+						<!-- //LANGUAGE SWITCHER -->
+									</div>
+			</div>
+		</div>
+	</div>
+	<!-- //TOP BAR -->
+
+
+    
+<!-- HEADER -->
+<header id="t3-header" class="container t3-header">
+	<div class="row">
+
+		<!-- LOGO -->
+		<div class="col-xs-3 col-sm-8 logo">
+			<div class="logo-image">
+				<a href="https://www.islagaia.pt/" title="ISLA Gaia">
+											<img class="logo-img" src="/images/newlogo.png" alt="ISLA Gaia" />
+															<span>ISLA Gaia</span>
+				</a>
+				<small class="site-slogan">Instituto Politécnico de Gestão e Tecnologia</small>
+			</div>
+		</div>
+		<!-- //LOGO -->
+
+					<div class="col-xs-9 col-sm-4">
+									<!-- HEAD ACTION -->
+					<div class="head-action text-right ">
+						
+
+<div class="custom"  >
+	<table>
+<tbody>
+<tr>
+<td style="text-align: center; border: 0;">
+<p><a class="btn btn-lg btn-primary" href="https://bemvindo.islagaia.pt/" target="_blank" rel="noopener">Bem-Vindo</a></p>
+</td>
+<td style="text-align: center; border: 0;">&nbsp;</td>
+<td style="text-align: center; border: 0;">
+<p><a class="btn btn-lg btn-primary" href="/pt/ensino/cursos.html" target="_blank" rel="noopener">Conheça os nossos Cursos</a></p>
+</td>
+<td style="text-align: center; border: 0;">&nbsp;</td>
+<td style="text-align: center; border: 0;">
+<p><a class="btn btn-lg btn-primary" href="https://www.ensinolusofona.pt/pt/candidaturas" target="_blank" rel="noopener">Candidatura Online</a></p>
+</td>
+</tr>
+</tbody>
+</table></div>
+
+					</div>
+					<!-- //HEAD ACTION -->
+				
+			</div>
+		
+	</div>
+</header>
+<!-- //HEADER -->
+
+
+    
+<!-- MAIN NAVIGATION -->
+<nav id="t3-mainnav" class="wrap navbar navbar-default t3-mainnav">
+	<div class="container">
+				
+		
+					
+<button class="btn btn-primary off-canvas-toggle " type="button" data-pos="left" data-nav="#t3-off-canvas" data-effect="off-canvas-effect-4">
+  <i class="fa fa-bars"></i>
+</button>
+
+<!-- OFF-CANVAS SIDEBAR -->
+<div id="t3-off-canvas" class="t3-off-canvas ">
+
+  <div class="t3-off-canvas-header">
+    <h2 class="t3-off-canvas-header-title">Sidebar</h2>
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+  </div>
+
+  <div class="t3-off-canvas-body">
+    <div class="t3-module module " id="Mod119"><div class="module-inner"><div class="module-ct"><ul class="nav nav-pills nav-stacked menu">
+<li class="item-412 current active"><a href="/pt/" class="">Início </a></li><li class="item-113 deeper dropdown parent"><a href="/pt/instituto.html" class=" dropdown-toggle" data-toggle="dropdown">ISLA Gaia <em class="caret"></em></a><ul class="dropdown-menu"><li class="item-417"><a href="/pt/instituto/mensagem-do-presidente.html" class="">Mensagem do Presidente </a></li><li class="item-418"><a href="/pt/instituto/missao-e-objectivos.html" class="">Visão, Missão e Valores </a></li><li class="item-419 dropdown-submenu parent"><a href="/pt/instituto/organizacao.html" class="">Organização </a><ul class="dropdown-menu"><li class="item-347"><a href="/pt/instituto/escola-superior-de-gestao.html" class="">Escola Superior de Gestão </a></li><li class="item-348"><a href="/pt/instituto/escola-superior-de-tecnologia.html" class="">Escola Superior de Tecnologia </a></li><li class="item-416"><a href="/pt/instituto/centros-de-investigacao.html" class="">Centro de Investigação </a></li></ul></li><li class="item-465"><a href="/pt/instituto/instalacoes.html" class="">Instalações </a></li><li class="item-277"><a href="/pt/ensino/corpo-docente.html" class="">Corpo Docente </a></li><li class="item-517"><a href="/pt/instituto-alias/sistema-interno-de-gestao-da-qualidade.html" class="">Sistema Interno de Gestão da Qualidade</a></li></ul></li><li class="item-114 deeper dropdown parent"><a href="/pt/ensino.html" class=" dropdown-toggle" data-toggle="dropdown">Ensino <em class="caret"></em></a><ul class="dropdown-menu"><li class="item-262"><a href="/pt/ensino/ctesp.html" class="">CTeSP </a></li><li class="item-261"><a href="/pt/ensino/licenciaturas.html" class="">Licenciaturas </a></li><li class="item-263"><a href="/pt/ensino/mestrados.html" class="">Mestrados </a></li><li class="item-264"><a href="https://ibagaia.pt/stm_lms_course_category/pos-graduacoes/" class="" target="_blank" rel="noopener noreferrer">Pós-graduações </a></li><li class="item-541"><a href="https://ibagaia.pt/stm_lms_course_category/microcredenciais/" class="" target="_blank" rel="noopener noreferrer">Microcredenciais </a></li><li class="item-510"><a href="/pt/ensino-alias/titulo-de-especialista.html" class="">Título de Especialista</a></li><li class="item-260 dropdown-submenu parent"><a href="/pt/ensino/formacao.html" class="">Formação </a><ul class="dropdown-menu"><li class="item-265"><a href="/pt/ensino/centro-qualifica.html" class="">Centro Qualifica </a></li><li class="item-266"><a href="/pt/ensino/academia-cisco.html" class="">Academia CISCO </a></li><li class="item-546"><a href="/pt/ensino-alias/formacao/lider-digital-norte.html" class="">Lider + Digital NORTE</a></li><li class="item-547"><a href="/pt/ensino-alias/formacao/lider-digital-centro.html" class="">Lider + Digital CENTRO</a></li></ul></li><li class="item-259"><a href="/pt/ensino/calendarios-e-horarios.html" class="">Calendários e Horários </a></li><li class="item-454"><a href="/pt/admissoes/propinas.html" class="">Propinas </a></li></ul></li><li class="item-498"><a href="https://cespe.pt/" class="" target="_blank" rel="noopener noreferrer">Cooperação </a></li><li class="item-526"><a href="https://ci-islagaia.pt/" class="" target="_blank" rel="noopener noreferrer">Investigação </a></li><li class="item-527"><a href="https://int-islagaia.pt/" class="" target="_blank" rel="noopener noreferrer">Internacional </a></li><li class="item-194 deeper dropdown parent"><a href="/pt/contactos.html" class=" dropdown-toggle" data-toggle="dropdown">Contactos <em class="caret"></em></a><ul class="dropdown-menu"><li class="item-305"><a href="/pt/contactos/localizacao.html" class="">Localização </a></li></ul></li></ul>
+</div></div></div>
+  </div>
+
+</div>
+<!-- //OFF-CANVAS SIDEBAR -->
+
+		
+		<div class="row">
+			<div class="col-sm-12 col-md-9">
+				<!-- Brand and toggle get grouped for better mobile display -->
+
+				
+				<div class="t3-navbar navbar-collapse collapse">
+					<div  class="t3-megamenu"  data-responsive="true">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav level0">
+<li itemprop='name' class="active" data-id="412" data-level="1">
+<a itemprop='url' class=""  href="/pt/"   data-target="#">Início</a>
+
+</li>
+<li itemprop='name' class="dropdown mega" data-id="113" data-level="1">
+<a itemprop='url' class=" dropdown-toggle"  href="/pt/instituto.html"   data-target="#" data-toggle="dropdown">ISLA Gaia<em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 300px"  data-width="300"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop='name'  data-id="417" data-level="2">
+<a itemprop='url' class=""  href="/pt/instituto/mensagem-do-presidente.html"   data-target="#">Mensagem do Presidente</a>
+
+</li>
+<li itemprop='name'  data-id="418" data-level="2">
+<a itemprop='url' class=""  href="/pt/instituto/missao-e-objectivos.html"   data-target="#">Visão, Missão e Valores</a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="419" data-level="2">
+<a itemprop='url' class=""  href="/pt/instituto/organizacao.html"   data-target="#">Organização</a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="347" data-level="3">
+<a itemprop='url' class=""  href="/pt/instituto/escola-superior-de-gestao.html"   data-target="#">Escola Superior de Gestão</a>
+
+</li>
+<li itemprop='name'  data-id="348" data-level="3">
+<a itemprop='url' class=""  href="/pt/instituto/escola-superior-de-tecnologia.html"   data-target="#">Escola Superior de Tecnologia</a>
+
+</li>
+<li itemprop='name'  data-id="416" data-level="3">
+<a itemprop='url' class=""  href="/pt/instituto/centros-de-investigacao.html"   data-target="#">Centro de Investigação</a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="465" data-level="2">
+<a itemprop='url' class=""  href="/pt/instituto/instalacoes.html"   data-target="#">Instalações</a>
+
+</li>
+<li itemprop='name'  data-id="277" data-level="2">
+<a itemprop='url' class=""  href="/pt/ensino/corpo-docente.html"   data-target="#">Corpo Docente</a>
+
+</li>
+<li itemprop='name'  data-id="517" data-level="2">
+<a itemprop='url' class=""  href="/pt/instituto-alias/sistema-interno-de-gestao-da-qualidade.html"   data-target="#">Sistema Interno de Gestão da Qualidade </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name' class="dropdown mega" data-id="114" data-level="1">
+<a itemprop='url' class=" dropdown-toggle"  href="/pt/ensino.html"   data-target="#" data-toggle="dropdown">Ensino<em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 250px"  data-width="250"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop='name'  data-id="262" data-level="2">
+<a itemprop='url' class=""  href="/pt/ensino/ctesp.html"   data-target="#">CTeSP</a>
+
+</li>
+<li itemprop='name'  data-id="261" data-level="2">
+<a itemprop='url' class=""  href="/pt/ensino/licenciaturas.html"   data-target="#">Licenciaturas</a>
+
+</li>
+<li itemprop='name'  data-id="263" data-level="2">
+<a itemprop='url' class=""  href="/pt/ensino/mestrados.html"   data-target="#">Mestrados</a>
+
+</li>
+<li itemprop='name'  data-id="264" data-level="2">
+<a itemprop='url' class=""  href="https://ibagaia.pt/stm_lms_course_category/pos-graduacoes/" target="_blank"   data-target="#">Pós-graduações</a>
+
+</li>
+<li itemprop='name'  data-id="541" data-level="2">
+<a itemprop='url' class=""  href="https://ibagaia.pt/stm_lms_course_category/microcredenciais/" target="_blank"   data-target="#">Microcredenciais</a>
+
+</li>
+<li itemprop='name'  data-id="510" data-level="2">
+<a itemprop='url' class=""  href="/pt/ensino-alias/titulo-de-especialista.html"   data-target="#">Título de Especialista </a>
+
+</li>
+<li itemprop='name' class="dropdown-submenu mega" data-id="260" data-level="2">
+<a itemprop='url' class=""  href="/pt/ensino/formacao.html"   data-target="#">Formação</a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  style="width: 250px"  data-width="250"><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level2">
+<li itemprop='name'  data-id="265" data-level="3">
+<a itemprop='url' class=""  href="/pt/ensino/centro-qualifica.html"   data-target="#">Centro Qualifica</a>
+
+</li>
+<li itemprop='name'  data-id="266" data-level="3">
+<a itemprop='url' class=""  href="/pt/ensino/academia-cisco.html"   data-target="#">Academia CISCO</a>
+
+</li>
+<li itemprop='name'  data-id="546" data-level="3">
+<a itemprop='url' class=""  href="/pt/ensino-alias/formacao/lider-digital-norte.html"   data-target="#">Lider + Digital NORTE </a>
+
+</li>
+<li itemprop='name'  data-id="547" data-level="3">
+<a itemprop='url' class=""  href="/pt/ensino-alias/formacao/lider-digital-centro.html"   data-target="#">Lider + Digital CENTRO </a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="259" data-level="2">
+<a itemprop='url' class=""  href="/pt/ensino/calendarios-e-horarios.html"   data-target="#">Calendários e Horários</a>
+
+</li>
+<li itemprop='name'  data-id="454" data-level="2">
+<a itemprop='url' class=""  href="/pt/admissoes/propinas.html"   data-target="#">Propinas</a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+<li itemprop='name'  data-id="498" data-level="1">
+<a itemprop='url' class=""  href="https://cespe.pt/" target="_blank"   data-target="#">Cooperação</a>
+
+</li>
+<li itemprop='name'  data-id="526" data-level="1">
+<a itemprop='url' class=""  href="https://ci-islagaia.pt/" target="_blank"   data-target="#">Investigação</a>
+
+</li>
+<li itemprop='name'  data-id="527" data-level="1">
+<a itemprop='url' class=""  href="https://int-islagaia.pt/" target="_blank"   data-target="#">Internacional</a>
+
+</li>
+<li itemprop='name' class="dropdown mega" data-id="194" data-level="1">
+<a itemprop='url' class=" dropdown-toggle"  href="/pt/contactos.html"   data-target="#" data-toggle="dropdown">Contactos<em class="caret"></em></a>
+
+<div class="nav-child dropdown-menu mega-dropdown-menu"  ><div class="mega-dropdown-inner">
+<div class="row">
+<div class="col-xs-12 mega-col-nav" data-width="12"><div class="mega-inner">
+<ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="mega-nav level1">
+<li itemprop='name'  data-id="305" data-level="2">
+<a itemprop='url' class=""  href="/pt/contactos/localizacao.html"   data-target="#">Localização</a>
+
+</li>
+</ul>
+</div></div>
+</div>
+</div></div>
+</li>
+</ul>
+</div>
+
+				</div>
+			</div>
+												<!-- NAV SEARCH -->
+					<div class="nav-search col-md-3 text-right ">
+						<div class="search mod_search135">
+	<form action="/pt/" method="post" class="form-inline form-search">
+		<label for="mod-search-searchword135" class="element-invisible">Pesquisar...</label> <input name="searchword" id="mod-search-searchword" aria-label="search" maxlength="200"  class="form-control search-query" type="search" size="16" placeholder="Pesquisar..." /> <button class="button btn btn-primary" onclick="this.form.searchword.focus();">Pesquisar</button>		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="340" />
+	</form>
+</div>
+
+					</div>
+					<!-- //NAV SEARCH -->
+									</div>
+	</div>
+</nav>
+<!-- //MAIN NAVIGATION -->
+
+
+    
+	<!-- SLIDESHOW -->
+	<div class="wrap t3-slideshow ">
+		
+
+<div class="acm-slideshow acm-owl">
+	<div id="acm-slideshow-90" class="items-8">
+		<div class="owl-carousel owl-theme effect-normal">
+								<div class="item">
+                    <img class="img-bg" alt="Já conhece o ISLA Gaia?" src="/images/destaques-home/BannerSite_ISLAGaiaA.png" />
+                    <div class="mask container"></div>
+          <div class="slider-content container">
+            <div class="slider-content-inner">  
+				      				        <h1 class="item-title ja-animation" data-delay-transtion="2">
+				          					         <a href="https://www.islagaia.pt/pt/ensino.html" title="Já conhece o ISLA Gaia?">
+				          
+  					     Já conhece o ISLA Gaia?
+        				          					</a>
+        				        				  </h1>
+      				
+                              <p class="ja-animation" data-delay-transtion="3">Temos as portas abertas para si.                  Venha conhecer as nossas instalações e saber mais sobre toda a nossa oferta formativa e condições.</p>
+              
+                              <a href="https://www.islagaia.pt/pt/ensino.html" class="btn btn-default btn-lg ja-animation" data-delay-transtion="4">Oferta Formativa</a>
+                          </div>
+          </div>
+				</div>
+			 					<div class="item">
+                    <img class="img-bg" alt="Candidaturas Abertas 24/25" src="/images/destaques-home/banner-redes-candidaturas-2024-05.jpg" />
+                    <div class="mask container"></div>
+          <div class="slider-content container">
+            <div class="slider-content-inner">  
+				      				        <h1 class="item-title ja-animation" data-delay-transtion="2">
+				          					         <a href="https://candidaturas.ensinolusofona.pt/" title="Candidaturas Abertas 24/25">
+				          
+  					     Candidaturas Abertas 24/25
+        				          					</a>
+        				        				  </h1>
+      				
+                              <p class="ja-animation" data-delay-transtion="3">Concurso Nacional de Acesso, Concursos Especiais e Mudança de Par Instituição/Curso.</p>
+              
+                              <a href="https://candidaturas.ensinolusofona.pt/" class="btn btn-default btn-lg ja-animation" data-delay-transtion="4">Saber mais</a>
+                          </div>
+          </div>
+				</div>
+			 					<div class="item">
+                    <img class="img-bg" alt="Faça já o seu cartão de estudante!" src="/images/destaques-home/cartoes-estudante-24-25A.jpg" />
+                    <div class="mask container"></div>
+          <div class="slider-content container">
+            <div class="slider-content-inner">  
+				      				        <h1 class="item-title ja-animation" data-delay-transtion="2">
+				          					         <a href="https://www.islagaia.pt/pt/noticias/1136-faca-ja-o-seu-cartao-de-estudante-30-setembro-a-4-outubro.html" title="Faça já o seu cartão de estudante!">
+				          
+  					     Faça já o seu cartão de estudante!
+        				          					</a>
+        				        				  </h1>
+      				
+                              <p class="ja-animation" data-delay-transtion="3">O cartão de identificação que lhe permite gerir a sua vida a nível académico e/ou financeiro. É obrigatório e gratuito.</p>
+              
+                              <a href="https://www.islagaia.pt/pt/noticias/1136-faca-ja-o-seu-cartao-de-estudante-30-setembro-a-4-outubro.html" class="btn btn-default btn-lg ja-animation" data-delay-transtion="4">Saber mais</a>
+                          </div>
+          </div>
+				</div>
+			 					<div class="item">
+                    <img class="img-bg" alt="Prossegue os Estudos" src="/images/destaques-home/Prosseguir_ISLAGaia_B_Banner.png" />
+                    <div class="mask container"></div>
+          <div class="slider-content container">
+            <div class="slider-content-inner">  
+				      				        <h1 class="item-title ja-animation" data-delay-transtion="2">
+				          					         <a href="https://www.ensinolusofona.pt/pt/prossegue-os-teus-estudos-isla-gaia" title="Prossegue os Estudos">
+				          
+  					     Prossegue os Estudos
+        				          					</a>
+        				        				  </h1>
+      				
+                              <p class="ja-animation" data-delay-transtion="3">Benefício de isenção do pagamento da candidatura.</p>
+              
+                              <a href="https://www.ensinolusofona.pt/pt/prossegue-os-teus-estudos-isla-gaia" class="btn btn-default btn-lg ja-animation" data-delay-transtion="4">Mais informação</a>
+                          </div>
+          </div>
+				</div>
+			 					<div class="item">
+                    <img class="img-bg" alt="CTeSP" src="/images/destaques-home/ctesp_site-01.png" />
+                    <div class="mask container"></div>
+          <div class="slider-content container">
+            <div class="slider-content-inner">  
+				      				        <h1 class="item-title ja-animation" data-delay-transtion="2">
+				          					         <a href="https://www.islagaia.pt/pt/ensino/ctesp.html" title="CTeSP">
+				          
+  					     CTeSP
+        				          					</a>
+        				        				  </h1>
+      				
+                              <p class="ja-animation" data-delay-transtion="3">Encontra aqui o TeSP para o teu futuro</p>
+              
+                              <a href="https://www.islagaia.pt/pt/ensino/ctesp.html" class="btn btn-default btn-lg ja-animation" data-delay-transtion="4">Mais informação</a>
+                          </div>
+          </div>
+				</div>
+			 					<div class="item">
+                    <img class="img-bg" alt="Bem-Vindo ao ISLA Gaia" src="/images/destaques-home/bemvindo_banner.png" />
+                    <div class="mask container"></div>
+          <div class="slider-content container">
+            <div class="slider-content-inner">  
+				      				        <h1 class="item-title ja-animation" data-delay-transtion="2">
+				          					         <a href="https://bemvindo.islagaia.pt/" title="Bem-Vindo ao ISLA Gaia">
+				          
+  					     Bem-Vindo ao ISLA Gaia
+        				          					</a>
+        				        				  </h1>
+      				
+                              <p class="ja-animation" data-delay-transtion="3">Aqui encontra tudo o que precisa para a sua jornada académica</p>
+              
+                              <a href="https://bemvindo.islagaia.pt/" class="btn btn-default btn-lg ja-animation" data-delay-transtion="4">Mais informação</a>
+                          </div>
+          </div>
+				</div>
+			 					<div class="item">
+                    <img class="img-bg" alt="Licenciaturas" src="/images/destaques-home/banner_lic_site_Prancheta-1.png" />
+                    <div class="mask container"></div>
+          <div class="slider-content container">
+            <div class="slider-content-inner">  
+				      				        <h1 class="item-title ja-animation" data-delay-transtion="2">
+				          					         <a href="https://www.islagaia.pt/pt/ensino/licenciaturas.html" title="Licenciaturas">
+				          
+  					     Licenciaturas
+        				          					</a>
+        				        				  </h1>
+      				
+                              <p class="ja-animation" data-delay-transtion="3">Conheça a oferta formativa do 1º ciclo</p>
+              
+                              <a href="https://www.islagaia.pt/pt/ensino/licenciaturas.html" class="btn btn-default btn-lg ja-animation" data-delay-transtion="4">Mais informação</a>
+                          </div>
+          </div>
+				</div>
+			 					<div class="item">
+                    <img class="img-bg" alt="Mestrados" src="/images/destaques-home/banner_mes_site_Prancheta-1.png" />
+                    <div class="mask container"></div>
+          <div class="slider-content container">
+            <div class="slider-content-inner">  
+				      				        <h1 class="item-title ja-animation" data-delay-transtion="2">
+				          					         <a href="https://www.islagaia.pt/pt/ensino/mestrados.html" title="Mestrados">
+				          
+  					     Mestrados
+        				          					</a>
+        				        				  </h1>
+      				
+                              <p class="ja-animation" data-delay-transtion="3">Conheça a oferta formativa do 2º ciclo</p>
+              
+                              <a href="https://www.islagaia.pt/pt/ensino/mestrados.html" class="btn btn-default btn-lg ja-animation" data-delay-transtion="4">Mais informação</a>
+                          </div>
+          </div>
+				</div>
+			 			</div>
+	</div>
+</div>
+
+<script>
+(function($){
+  jQuery(document).ready(function($) {
+    $("#acm-slideshow-90 .owl-carousel").owlCarousel({
+      addClassActive: true,
+      items: 1,
+      loop: true,
+      dots: true,
+      dotsEach: true,
+      merge: false,
+      mergeFit: true,
+      nav: false,
+      slideBy: 1,
+      autoPlay: true
+    });
+  });
+})(jQuery);
+</script>
+	</div>
+	<!-- //SLIDESHOW -->
+
+
+    
+	<!-- SPOTLIGHT 1 -->
+	<div class="container t3-sl t3-sl-1">
+		  <!-- SPOTLIGHT -->
+  <div class="t3-spotlight t3-spotlight-1 equal-height equal-height-child row">
+          <div class=" col-lg-4 col-md-4 col-sm-4 col-xs-6  col">
+                  <div class="t3-module module module-bg bg-gray-dark  ja-animate dl-1 fadeIn " id="Mod92"><div class="module-inner"><h3 class="module-title "><span>Candidaturas</span></h3><div class="module-ct">
+
+<div class="custom module-bg bg-gray-dark  ja-animate dl-1 fadeIn"  >
+	<p>Temos um lugar para ti!.</p>
+<p><a class="btn btn-secondary" href="https://www.ensinolusofona.pt/pt/candidaturas" target="_blank" rel="noopener">Ler mais</a></p></div>
+</div></div></div>
+              </div>
+          <div class=" col-lg-4 col-md-4 col-sm-4 col-xs-6  col">
+                  <div class="t3-module module module-bg bg-secondary ja-animate dl-4 fadeIn " id="Mod187"><div class="module-inner"><h3 class="module-title "><span>Admissões</span></h3><div class="module-ct">
+
+<div class="custom module-bg bg-secondary ja-animate dl-4 fadeIn"  >
+	<p>Campanhas para candidatos e estudantes</p>
+<p><a class="btn btn-default" href="https://www.ensinolusofona.pt/pt/vantagens">Ler mais</a></p></div>
+</div></div></div>
+              </div>
+          <div class=" col-lg-4 col-md-4 col-sm-4 col-xs-12  col">
+                  <div class="t3-module module module-bg bg-primary ja-animate dl-8 fadeIn " id="Mod94"><div class="module-inner"><h3 class="module-title "><span>Estudante Internacional</span></h3><div class="module-ct">
+
+<div class="custom module-bg bg-primary ja-animate dl-8 fadeIn"  >
+	<p>Oportunidade para estudares em Portugal.&nbsp;</p>
+<p><a class="btn btn-secondary" href="https://www.ensinolusofona.pt/pt/estudante-internacional">Saber mais</a></p></div>
+</div></div></div>
+              </div>
+      </div>
+<!-- SPOTLIGHT -->
+	</div>
+	<!-- //SPOTLIGHT 1 -->
+
+
+    
+
+	
+	
+
+
+    
+
+
+    
+<div id="t3-mainbody" class="container t3-mainbody one-sidebar-right">
+	<div class="row">
+
+		<!-- MAIN CONTENT -->
+		<div id="t3-content" class="t3-content col-xs-12 col-sm-8  col-md-9">
+						<div class="blog-featured homepage" itemscope itemtype="http://schema.org/Blog">
+
+	
+		
+		<div class="items-row cols-1 row-0 row">
+					<div class="item column-1 col-sm-12">
+			
+  
+	<!-- Article -->
+	<article>
+
+		
+
+			
+			
+			    <div class="pull-left item-image">
+      <a href="/pt/noticias/1137-epoca-de-exames-especial-2023-24.html"><img
+        src="/images/CALENDARIO.png" alt="" itemprop="thumbnailUrl"/></a>
+    </div>
+
+			<div class="item-ct">
+									
+<header class="article-header clearfix">
+	<h2 class="article-title" itemprop="headline">
+					<a href="/pt/noticias/1137-epoca-de-exames-especial-2023-24.html" itemprop="url" title="Época de Exames Especial 2023/24">
+				Época de Exames Especial 2023/24</a>
+			</h2>
+
+			</header>
+				
+			    <!-- Aside -->
+			    			    <aside class="article-aside clearfix">
+			      			      	<dl class="article-info  muted">
+
+		
+			<dt class="article-info-term">
+											</dt>
+
+			
+			
+										<dd class="category-name hasTooltip" title="Categoria: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/pt/noticias.html" ><span itemprop="genre">Notícias</span></a>							</dd>			
+										<dd class="published hasTooltip" title="Publicado em ">
+				<i class="fa fa-calendar"></i>
+				<time datetime="2024-09-20T08:50:34+00:00" itemprop="datePublished">
+					20 setembro 2024          <meta  itemprop="datePublished" content="2024-09-20T08:50:34+00:00" />
+          <meta  itemprop="dateModified" content="2024-09-20T08:50:34+00:00" />
+				</time>
+			</dd>
+					
+					
+			
+						</dl>
+			      			      
+			      			    </aside>  
+			    			    <!-- //Aside -->
+
+				<section class="article-intro clearfix" itemprop="articleBody">
+					<p>As inscrições para os exames de época especial decorrem de<strong>&nbsp;30 de setembro a 02 de outubro.</strong></p>
+
+				</section>
+			    <!-- footer -->
+			    			    <!-- //footer -->
+
+			    
+									<section class="readmore">
+						<a href="/pt/noticias/1137-epoca-de-exames-especial-2023-24.html" itemprop="url">
+							<span>
+							Ler mais...							</span>
+						</a>
+							</div>
+		</section>
+	</article>
+	<!-- //Article -->
+
+  <div class="s2s_options"><div class="s2s_insert">0</div><div class="s2s_insert_position">0</div><div class="s2s_insert_element"></div><div class="checkCookie">0</div><div class="social2s_behavior">s2sdefault</div><input name="social2s_lang_1tag" type="hidden" class="social2s_lang_1tag" value="pt_PT" /><input name="social2s_lang_2tag" type="hidden" class="social2s_lang_2tag" value="pt" /><input name="social2s_load_social_scripts" type="hidden" class="social2s_load_social_scripts" value="0" /><input name="social2s_context" type="hidden" class="social2s_context" value="com_content.featured" /><input name="social2s_debug" type="hidden" class="social2s_debug" value="0" /><input name="s2s_art_mobile_min" type="hidden" class="s2s_art_mobile_min" value="978" /><input name="s2s_cta_active" type="hidden" class="s2s_cta_active" value="0" /><input name="s2s_cta_default" type="hidden" class="s2s_cta_default" value="twitter" /></div><div class="s2s_supra_contenedor s2sdefault  align_right " ><div class="s2s_contenedor  btn-group"><div class="s2s_twitter btn btn-default btn-xs">
+			<a><i class="fa fa-twitter-square">  </i><span class="label s2s_twitter_counter"></span></a>
+			<div class="globo s2s_twitter_iframe">
+				<div class="s2s_flecha"></div>
+				<a style="display:none" 
+					href="https://twitter.com/share"
+					data-text="Época de Exames Especial 2023/24" 
+					data-url="https://www.islagaia.pt/pt/noticias/1137-epoca-de-exames-especial-2023-24.html" 
+					class="twitter-share-button" data-lang="pt" 
+					data-size="large" data-count="none">
+				</a></div>
+		</div><div class="s2s_facebook btn btn-default btn-xs" ><a><i class="fa fa-facebook-square">  </i></a>
+				<div class="globo s2s_facebook_iframe">
+					<div class="s2s_flecha"></div>
+					<div id="fb-root"></div><div class="fb-like" 
+						data-layout="button_count" 
+						data-action="like" data-href="https://www.islagaia.pt/pt/noticias/1137-epoca-de-exames-especial-2023-24.html" data-width="450" 
+						data-show-faces="false" 
+						data-send="true" 
+						data-share="true" 
+						>
+					</div></div>
+			</div><div class="s2s_linkedin btn btn-default btn-xs" >
+			
+			<a><i class="fa fa-linkedin-square">  </i></a>
+				<div class="globo s2s_linkedin_iframe">
+					<div class="s2s_flecha"></div>
+				
+					<script type="IN/Share" data-counter="right" data-url="https://www.islagaia.pt/pt/noticias/1137-epoca-de-exames-especial-2023-24.html"></script>
+				</div>
+			</div><div class="s2s_gplus btn btn-default btn-xs" lang="pt"><a><i class="fa fa-google-plus-square">  </i></a>
+				<div class="globo s2s_gplus_iframe">
+					<div class="s2s_flecha"></div>
+				
+						<div class="s2s_gplus_one">
+							<div class="g-plus" data-action="share" data-href="https://www.islagaia.pt/pt/noticias/1137-epoca-de-exames-especial-2023-24.html" data-annotation="bubble" ></div>
+						</div><div class="s2s_gplus_one">
+									<div class="g-plusone" data-size="small" data-href="https://www.islagaia.pt/pt/noticias/1137-epoca-de-exames-especial-2023-24.html"  ></div>
+							</div></div>
+			</div>
+		</div></div>			</div>
+			
+			
+		</div>
+		
+	
+		
+		<div class="items-row cols-1 row-1 row">
+					<div class="item column-1 col-sm-12">
+			
+  
+	<!-- Article -->
+	<article>
+
+		
+
+			
+			
+			    <div class="pull-left item-image">
+      <a href="/pt/noticias/1136-faca-ja-o-seu-cartao-de-estudante-30-setembro-a-4-outubro.html"><img
+        src="/images/cartoes-estudante-24-25_post.png" alt="" itemprop="thumbnailUrl"/></a>
+    </div>
+
+			<div class="item-ct">
+									
+<header class="article-header clearfix">
+	<h2 class="article-title" itemprop="headline">
+					<a href="/pt/noticias/1136-faca-ja-o-seu-cartao-de-estudante-30-setembro-a-4-outubro.html" itemprop="url" title="Faça já o seu cartão de estudante (30 setembro a 4 outubro)">
+				Faça já o seu cartão de estudante (30 setembro a 4 outubro)</a>
+			</h2>
+
+			</header>
+				
+			    <!-- Aside -->
+			    			    <aside class="article-aside clearfix">
+			      			      	<dl class="article-info  muted">
+
+		
+			<dt class="article-info-term">
+											</dt>
+
+			
+			
+										<dd class="category-name hasTooltip" title="Categoria: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/pt/noticias.html" ><span itemprop="genre">Notícias</span></a>							</dd>			
+										<dd class="published hasTooltip" title="Publicado em ">
+				<i class="fa fa-calendar"></i>
+				<time datetime="2024-09-20T09:08:33+00:00" itemprop="datePublished">
+					20 setembro 2024          <meta  itemprop="datePublished" content="2024-09-20T09:08:33+00:00" />
+          <meta  itemprop="dateModified" content="2024-09-20T09:08:33+00:00" />
+				</time>
+			</dd>
+					
+					
+			
+						</dl>
+			      			      
+			      			    </aside>  
+			    			    <!-- //Aside -->
+
+				<section class="article-intro clearfix" itemprop="articleBody">
+					<p>O cartão de identificação que lhe permite gerir a sua vida a nível académico e/ou financeiro. É obrigatório e gratuito</p>
+
+				</section>
+			    <!-- footer -->
+			    			    <!-- //footer -->
+
+			    
+									<section class="readmore">
+						<a href="/pt/noticias/1136-faca-ja-o-seu-cartao-de-estudante-30-setembro-a-4-outubro.html" itemprop="url">
+							<span>
+							Ler mais...							</span>
+						</a>
+							</div>
+		</section>
+	</article>
+	<!-- //Article -->
+
+  <div class="s2s_options"><div class="s2s_insert">0</div><div class="s2s_insert_position">0</div><div class="s2s_insert_element"></div><div class="checkCookie">0</div><div class="social2s_behavior">s2sdefault</div><input name="social2s_lang_1tag" type="hidden" class="social2s_lang_1tag" value="pt_PT" /><input name="social2s_lang_2tag" type="hidden" class="social2s_lang_2tag" value="pt" /><input name="social2s_load_social_scripts" type="hidden" class="social2s_load_social_scripts" value="0" /><input name="social2s_context" type="hidden" class="social2s_context" value="com_content.featured" /><input name="social2s_debug" type="hidden" class="social2s_debug" value="0" /><input name="s2s_art_mobile_min" type="hidden" class="s2s_art_mobile_min" value="978" /><input name="s2s_cta_active" type="hidden" class="s2s_cta_active" value="0" /><input name="s2s_cta_default" type="hidden" class="s2s_cta_default" value="twitter" /></div><div class="s2s_supra_contenedor s2sdefault  align_right " ><div class="s2s_contenedor  btn-group"><div class="s2s_twitter btn btn-default btn-xs">
+			<a><i class="fa fa-twitter-square">  </i><span class="label s2s_twitter_counter"></span></a>
+			<div class="globo s2s_twitter_iframe">
+				<div class="s2s_flecha"></div>
+				<a style="display:none" 
+					href="https://twitter.com/share"
+					data-text="Faça já o seu cartão de estudante (30 setembro a 4 outubro)" 
+					data-url="https://www.islagaia.pt/pt/noticias/1136-faca-ja-o-seu-cartao-de-estudante-30-setembro-a-4-outubro.html" 
+					class="twitter-share-button" data-lang="pt" 
+					data-size="large" data-count="none">
+				</a></div>
+		</div><div class="s2s_facebook btn btn-default btn-xs" ><a><i class="fa fa-facebook-square">  </i></a>
+				<div class="globo s2s_facebook_iframe">
+					<div class="s2s_flecha"></div>
+					<div id="fb-root"></div><div class="fb-like" 
+						data-layout="button_count" 
+						data-action="like" data-href="https://www.islagaia.pt/pt/noticias/1136-faca-ja-o-seu-cartao-de-estudante-30-setembro-a-4-outubro.html" data-width="450" 
+						data-show-faces="false" 
+						data-send="true" 
+						data-share="true" 
+						>
+					</div></div>
+			</div><div class="s2s_linkedin btn btn-default btn-xs" >
+			
+			<a><i class="fa fa-linkedin-square">  </i></a>
+				<div class="globo s2s_linkedin_iframe">
+					<div class="s2s_flecha"></div>
+				
+					<script type="IN/Share" data-counter="right" data-url="https://www.islagaia.pt/pt/noticias/1136-faca-ja-o-seu-cartao-de-estudante-30-setembro-a-4-outubro.html"></script>
+				</div>
+			</div><div class="s2s_gplus btn btn-default btn-xs" lang="pt"><a><i class="fa fa-google-plus-square">  </i></a>
+				<div class="globo s2s_gplus_iframe">
+					<div class="s2s_flecha"></div>
+				
+						<div class="s2s_gplus_one">
+							<div class="g-plus" data-action="share" data-href="https://www.islagaia.pt/pt/noticias/1136-faca-ja-o-seu-cartao-de-estudante-30-setembro-a-4-outubro.html" data-annotation="bubble" ></div>
+						</div><div class="s2s_gplus_one">
+									<div class="g-plusone" data-size="small" data-href="https://www.islagaia.pt/pt/noticias/1136-faca-ja-o-seu-cartao-de-estudante-30-setembro-a-4-outubro.html"  ></div>
+							</div></div>
+			</div>
+		</div></div>			</div>
+			
+			
+		</div>
+		
+	
+		
+		<div class="items-row cols-1 row-2 row">
+					<div class="item column-1 col-sm-12">
+			
+  
+	<!-- Article -->
+	<article>
+
+		
+
+			
+			
+			    <div class="pull-left item-image">
+      <a href="/pt/noticias/1135-edital-mestrado-gestao-daniela.html"><img
+        src="/images/isla_default.png" alt="" itemprop="thumbnailUrl"/></a>
+    </div>
+
+			<div class="item-ct">
+									
+<header class="article-header clearfix">
+	<h2 class="article-title" itemprop="headline">
+					<a href="/pt/noticias/1135-edital-mestrado-gestao-daniela.html" itemprop="url" title="Edital Mestrado Gestão">
+				Edital Mestrado Gestão</a>
+			</h2>
+
+			</header>
+				
+			    <!-- Aside -->
+			    			    <aside class="article-aside clearfix">
+			      			      	<dl class="article-info  muted">
+
+		
+			<dt class="article-info-term">
+											</dt>
+
+			
+			
+										<dd class="category-name hasTooltip" title="Categoria: ">
+				<i class="fa fa-folder-open"></i>
+									<a href="/pt/noticias.html" ><span itemprop="genre">Notícias</span></a>							</dd>			
+										<dd class="published hasTooltip" title="Publicado em ">
+				<i class="fa fa-calendar"></i>
+				<time datetime="2024-09-16T10:56:54+00:00" itemprop="datePublished">
+					16 setembro 2024          <meta  itemprop="datePublished" content="2024-09-16T10:56:54+00:00" />
+          <meta  itemprop="dateModified" content="2024-09-16T10:56:54+00:00" />
+				</time>
+			</dd>
+					
+					
+			
+						</dl>
+			      			      
+			      			    </aside>  
+			    			    <!-- //Aside -->
+
+				<section class="article-intro clearfix" itemprop="articleBody">
+					<p>Temos o grato prazer de comunicar o agendamento de <strong>1 defesa</strong>&nbsp;de Dissertação do Mestrado em Gestão do ISLA Gaia, que decorrerá no dia 19 de setembro 2024, às 18h, respetivamente, na Sala de Atos (Sala 1.17) conforme Edital em anexo, nomeadamente:</p>
+
+				</section>
+			    <!-- footer -->
+			    			    <!-- //footer -->
+
+			    
+									<section class="readmore">
+						<a href="/pt/noticias/1135-edital-mestrado-gestao-daniela.html" itemprop="url">
+							<span>
+							Ler mais...							</span>
+						</a>
+							</div>
+		</section>
+	</article>
+	<!-- //Article -->
+
+  <div class="s2s_options"><div class="s2s_insert">0</div><div class="s2s_insert_position">0</div><div class="s2s_insert_element"></div><div class="checkCookie">0</div><div class="social2s_behavior">s2sdefault</div><input name="social2s_lang_1tag" type="hidden" class="social2s_lang_1tag" value="pt_PT" /><input name="social2s_lang_2tag" type="hidden" class="social2s_lang_2tag" value="pt" /><input name="social2s_load_social_scripts" type="hidden" class="social2s_load_social_scripts" value="0" /><input name="social2s_context" type="hidden" class="social2s_context" value="com_content.featured" /><input name="social2s_debug" type="hidden" class="social2s_debug" value="0" /><input name="s2s_art_mobile_min" type="hidden" class="s2s_art_mobile_min" value="978" /><input name="s2s_cta_active" type="hidden" class="s2s_cta_active" value="0" /><input name="s2s_cta_default" type="hidden" class="s2s_cta_default" value="twitter" /></div><div class="s2s_supra_contenedor s2sdefault  align_right " ><div class="s2s_contenedor  btn-group"><div class="s2s_twitter btn btn-default btn-xs">
+			<a><i class="fa fa-twitter-square">  </i><span class="label s2s_twitter_counter"></span></a>
+			<div class="globo s2s_twitter_iframe">
+				<div class="s2s_flecha"></div>
+				<a style="display:none" 
+					href="https://twitter.com/share"
+					data-text="Edital Mestrado Gestão" 
+					data-url="https://www.islagaia.pt/pt/noticias/1135-edital-mestrado-gestao-daniela.html" 
+					class="twitter-share-button" data-lang="pt" 
+					data-size="large" data-count="none">
+				</a></div>
+		</div><div class="s2s_facebook btn btn-default btn-xs" ><a><i class="fa fa-facebook-square">  </i></a>
+				<div class="globo s2s_facebook_iframe">
+					<div class="s2s_flecha"></div>
+					<div id="fb-root"></div><div class="fb-like" 
+						data-layout="button_count" 
+						data-action="like" data-href="https://www.islagaia.pt/pt/noticias/1135-edital-mestrado-gestao-daniela.html" data-width="450" 
+						data-show-faces="false" 
+						data-send="true" 
+						data-share="true" 
+						>
+					</div></div>
+			</div><div class="s2s_linkedin btn btn-default btn-xs" >
+			
+			<a><i class="fa fa-linkedin-square">  </i></a>
+				<div class="globo s2s_linkedin_iframe">
+					<div class="s2s_flecha"></div>
+				
+					<script type="IN/Share" data-counter="right" data-url="https://www.islagaia.pt/pt/noticias/1135-edital-mestrado-gestao-daniela.html"></script>
+				</div>
+			</div><div class="s2s_gplus btn btn-default btn-xs" lang="pt"><a><i class="fa fa-google-plus-square">  </i></a>
+				<div class="globo s2s_gplus_iframe">
+					<div class="s2s_flecha"></div>
+				
+						<div class="s2s_gplus_one">
+							<div class="g-plus" data-action="share" data-href="https://www.islagaia.pt/pt/noticias/1135-edital-mestrado-gestao-daniela.html" data-annotation="bubble" ></div>
+						</div><div class="s2s_gplus_one">
+									<div class="g-plusone" data-size="small" data-href="https://www.islagaia.pt/pt/noticias/1135-edital-mestrado-gestao-daniela.html"  ></div>
+							</div></div>
+			</div>
+		</div></div>			</div>
+			
+			
+		</div>
+		
+	
+
+
+</div>
+
+			<!-- VM MAINBOTTOM -->
+								<div class="vm-mainbottom'">
+					
+
+<div class="custom"  >
+	<hr>
+<div class="text-center"><a class="btn btn-block btn-default btn-lg" href="/noticias">Ler todas as notícias</a></div></div>
+
+				</div>
+							<!-- VM MAINBOTTOM -->				
+		</div>
+		<!-- //MAIN CONTENT -->
+
+		<!-- SIDEBAR RIGHT -->
+		<div class="t3-sidebar t3-sidebar-right col-xs-12 col-sm-4  col-md-3 ">
+			<div class="t3-module module text-center no-padding " id="Mod182"><div class="module-inner"><div class="module-ct">
+
+<div class="custom text-center no-padding"  >
+	<div class="panel panel-default">
+<h5>&nbsp;&nbsp;</h5>
+<h4 style="text-align: center;">Cursos em Destaque</h4>
+<div class="panel-body"><a href="/pt/ensino/licenciaturas/1010-comunicacao-digital.html" target="_self"><img src="/images/banners_cursos/destaque_lic_CD.png" alt="destaque lic CD" /></a></div>
+<div class="panel-body"><a href="/pt/ensino/mestrados/1005-financas-e-fiscalidade-novo.html" target="_self"><img src="/images/banners_cursos/destaque_mes_FF.png" alt="destaque mes FF" /></a></div>
+</div></div>
+</div></div></div>
+		</div>
+		<!-- //SIDEBAR RIGHT -->
+
+	</div>
+</div> 
+
+
+
+    
+
+	
+	
+<!-- VM-BOTTOM -->
+	<div class="vm-bottom">
+		
+
+<div class="acm-features style-1">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4 col-lg-3">
+								<h3 class="acm-features-title">
+					As nossas Licenciaturas				</h3>
+				
+								<p class="acm-features-intro">
+					Conheça os cursos que temos para si nas áreas da Gestão e Tecnologias				</p>
+							</div>
+
+			<div class="col-md-8 col-lg-9">
+				<div id="acm-feature-95">
+					<div class="owl-carousel owl-theme">
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-0">
+																			<div class="features-img">
+											<img src="/images/banners_cursos/_slider_1C_CD-03.png" alt="" />
+										</div>
+																		
+																			<h4>Comunicação Digital</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://www.islagaia.pt/pt/ensino/licenciaturas/1010-comunicacao-digital.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-1">
+																			<div class="features-img">
+											<img src="/images/banners_cursos/__Slider-1C_ICE.png" alt="" />
+										</div>
+																		
+																			<h4>Informática para Comércio Eletrónico</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://www.islagaia.pt/pt/ensino/licenciaturas/896-informatica-para-comercio-eletronico.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-2">
+																			<div class="features-img">
+											<img src="/images/banners_cursos/__Slider-1C_MM.png" alt="" />
+										</div>
+																		
+																			<h4>Multimédia</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://www.islagaia.pt/pt/ensino/licenciaturas/880-multimedia.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-3">
+																			<div class="features-img">
+											<img src="/images/banners_cursos/__Slider-1C_EST.png" alt="" />
+										</div>
+																		
+																			<h4>Engenharia da Segurança do Trabalho</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="/pt/ensino/licenciaturas/engenharia-da-seguranca-do-trabalho.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-4">
+																			<div class="features-img">
+											<img src="/images/banners_cursos/__Slider-1C_G.png" alt="" />
+										</div>
+																		
+																			<h4>Gestão de Empresas</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="/pt/ensino/licenciaturas/gestao-de-empresas.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-5">
+																			<div class="features-img">
+											<img src="/images/banners_cursos/__Slider-1C_GRH.png" alt="" />
+										</div>
+																		
+																			<h4>Gestão de Recursos Humanos</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="/pt/ensino/licenciaturas/gestao-de-recursos-humanos.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-6">
+																			<div class="features-img">
+											<img src="/images/banners_cursos/__Slider-1C_GT.png" alt="" />
+										</div>
+																		
+																			<h4>Gestão do Turismo</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://www.islagaia.pt/pt/ensino/licenciaturas/781-gestao-do-turismo.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-7">
+																			<div class="features-img">
+											<img src="/images/banners_cursos/__Slider-1C_EI.png" alt="" />
+										</div>
+																		
+																			<h4>Engenharia Informática</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://www.islagaia.pt/pt/ensino/licenciaturas/652-engenharia-informatica.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+(function($){
+  jQuery(document).ready(function($) {
+    $("#acm-feature-95 .owl-carousel").owlCarousel({
+      addClassActive: true,
+      items: 4,
+      responsive : {
+      	0 : {
+      		items: 1,
+      	},
+
+      	768 : {
+      		items: 2,
+      	},
+
+      	979 : {
+      		items: 2,
+      	},
+
+      	1199 : {
+      		items: 4,
+      	}
+      },
+      loop: true,
+      nav : true,
+      navText : ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+      dots: false,
+      autoplay: false
+    });
+  });
+})(jQuery);
+</script>
+
+<div class="acm-features style-1">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4 col-lg-3">
+								<h3 class="acm-features-title">
+					Os nossos Mestrados				</h3>
+				
+								<p class="acm-features-intro">
+					Conheça os cursos que temos para si em diferentes áreas.				</p>
+							</div>
+
+			<div class="col-md-8 col-lg-9">
+				<div id="acm-feature-188">
+					<div class="owl-carousel owl-theme">
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-0">
+																			<div class="features-img">
+											<img src="/images/banners_cursos/__Slider-2C_ETSW.png" alt="" />
+										</div>
+																		
+																			<h4>Engenharia de Tecnologias e Sistemas Web</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://www.islagaia.pt/pt/ensino/mestrados/658-engenharia-de-tecnologias-e-sistemas-web-novo.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-1">
+																			<div class="features-img">
+											<img src="/images/banners_cursos/2C_FF_flyer_23-24_slider.png" alt="" />
+										</div>
+																		
+																			<h4>Finanças e Fiscalidade</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://www.islagaia.pt/pt/ensino/mestrados/1005-financas-e-fiscalidade-novo.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-2">
+																			<div class="features-img">
+											<img src="/images/banners_cursos/__Slider-2C_G.png" alt="" />
+										</div>
+																		
+																			<h4>Gestão</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://www.islagaia.pt/pt/ensino/mestrados/655-gestao.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-3">
+																			<div class="features-img">
+											<img src="/images/banners_cursos/__Slider-2C_GSST.png" alt="" />
+										</div>
+																		
+																			<h4>Gestão da Segurança e Saúde do Trabalho</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://www.islagaia.pt/pt/ensino/mestrados/gestao-da-seguranca-e-saude-do-trabalho.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-4">
+																			<div class="features-img">
+											<img src="/images/banners_cursos/__Slider-2C_GRH.png" alt="" />
+										</div>
+																		
+																			<h4>Gestão de Recursos Humanos</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://www.islagaia.pt/pt/ensino/mestrados/gestao-de-recursos-humanos.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+(function($){
+  jQuery(document).ready(function($) {
+    $("#acm-feature-188 .owl-carousel").owlCarousel({
+      addClassActive: true,
+      items: 4,
+      responsive : {
+      	0 : {
+      		items: 1,
+      	},
+
+      	768 : {
+      		items: 2,
+      	},
+
+      	979 : {
+      		items: 2,
+      	},
+
+      	1199 : {
+      		items: 4,
+      	}
+      },
+      loop: true,
+      nav : true,
+      navText : ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+      dots: false,
+      autoplay: false
+    });
+  });
+})(jQuery);
+</script>
+
+<div class="acm-features style-1">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4 col-lg-3">
+								<h3 class="acm-features-title">
+					Links úteis				</h3>
+				
+								<p class="acm-features-intro">
+					Conheça a nossa instituição				</p>
+							</div>
+
+			<div class="col-md-8 col-lg-9">
+				<div id="acm-feature-195">
+					<div class="owl-carousel owl-theme">
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-0">
+																			<div class="features-img">
+											<img src="/images/Icones/FoiEstudante-04.png" alt="" />
+										</div>
+																		
+																			<h4>Antigos estudantes</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://forms.office.com/e/KY7GzFZHqm">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-1">
+																			<div class="features-img">
+											<img src="/images/guiaestudante.png" alt="" />
+										</div>
+																		
+																			<h4>Guia do Estudante</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://www.islagaia.pt/images/ficheiros/GuiaEstudante_2023_web_A.pdf">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-2">
+																			<div class="features-img">
+											<img src="/images/emprego_v2.png" alt="" />
+										</div>
+																		
+																			<h4>Bolsa de Emprego e Estágios</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="http://instituto.islagaia.pt:8080/bolsa/">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-3">
+																			<div class="features-img">
+											<img src="/images/Logo_Opt_3_copy_2.png" alt="" />
+										</div>
+																		
+																			<h4>Me2You</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="http://me2you.pt/">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-4">
+																			<div class="features-img">
+											<img src="/images/banner_visitavirtual.png" alt="" />
+										</div>
+																		
+																			<h4>Visita Virtual</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://app.lapentor.com/sphere/isla-ipgt">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-5">
+																			<div class="features-img">
+											<img src="/images/office-hero.png" alt="" />
+										</div>
+																		
+																			<h4>Office365</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://www.islagaia.pt/pt/noticias/517-office365.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+													<div class="features-item col">
+								<div class="features-item-inner ja-animate" data-animation="move-from-bottom" data-delay="item-6">
+																			<div class="features-img">
+											<img src="/images/logo_centroqualifica.png" alt="" />
+										</div>
+																		
+																			<h4>Centro Qualifica</h4>
+																		
+									
+																			<div class="feature-action">
+											<a class="btn btn-default" href="https://www.islagaia.pt/pt/ensino/centro-qualifica.html">Saber mais</a>
+											</div>
+																	</div>
+							</div>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+(function($){
+  jQuery(document).ready(function($) {
+    $("#acm-feature-195 .owl-carousel").owlCarousel({
+      addClassActive: true,
+      items: 3,
+      responsive : {
+      	0 : {
+      		items: 1,
+      	},
+
+      	768 : {
+      		items: 2,
+      	},
+
+      	979 : {
+      		items: 2,
+      	},
+
+      	1199 : {
+      		items: 3,
+      	}
+      },
+      loop: true,
+      nav : true,
+      navText : ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+      dots: false,
+      autoplay: false
+    });
+  });
+})(jQuery);
+</script>
+
+<div class="custom full-width"  >
+	<div class="call-to-actions">
+<div class="container">
+<div class="pull-left">
+<div class="ja-animate" data-animation="move-from-right" data-delay="200">
+<h5>Acesso</h5>
+</div>
+<div class="ja-animate" data-animation="move-from-right" data-delay="400">
+<h4>Faça a sua Candidatura ao ISLA Gaia</h4>
+</div>
+</div>
+<a class="btn btn-lg btn-border pull-right ja-animate" href="https://www.ensinolusofona.pt/pt/candidaturas" target="_blank" rel="noopener" data-animation="fadeIn" data-delay="600">Candidatura Online</a></div>
+</div></div>
+
+
+<div class="acm-spotlight full-width">
+		<div class="row equal-height equal-height-child">
+		<div class="col col-xs-12 col-sm-12 col-md-6 col-lg-6">
+		
+
+<div class="acm-gallery acm-owl">
+	<div id="acm-gallery-146">
+		<div class="owl-carousel owl-theme ">
+								<div class="item">
+                    <img class="img-bg" alt="" src="/images/Fachada_ISLA_webA.png" />
+          				</div>
+			 			</div>
+	</div>
+</div>
+
+<script>
+(function($){
+  jQuery(document).ready(function($) {
+    $("#acm-gallery-146 .owl-carousel").owlCarousel({
+      addClassActive: true,
+      items: 1,
+      loop: true,
+      nav : true,
+      navText : ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+      dots: true,
+      merge: false,
+      mergeFit: true,
+      slideBy: 1,
+      autoplay: true
+    });
+  });
+})(jQuery);
+</script>	</div>
+		<div class="col col-xs-12 col-sm-12 col-md-6 col-lg-6">
+		
+
+<div class="acm-features style-2">
+	<div id="acm-feature-112" class="ja-animate" data-animation="move-from-left" >
+		<div class="owl-carousel owl-theme">
+							<div class="features-item">
+					<div class="features-item-inner row">
+						<div class="features-text col-xs-12 col-sm-6">
+															<h4>O Instituto</h4>
+														
+															<p>O ISLA foi a primeira instituição de ensino superior privado em Portugal em 1962.</p>
+							
+													</div>
+
+													<div class="features-img col-xs-12 col-sm-6">
+								<img src="/images/xDSC_1432.jpg" alt="" />
+							</div>
+											</div>
+				</div>
+							<div class="features-item">
+					<div class="features-item-inner row">
+						<div class="features-text col-xs-12 col-sm-6">
+															<h4>Escola Superior Gestão</h4>
+														
+															<p>As unidades orgânicas de ensino, denominadas por Escolas Superiores, gozam de autonomia científica e pedagógica, no âmbito das respetivas competências, nos termos da lei e dos estatutos do ISLA-IPGT.</p>
+							
+													</div>
+
+													<div class="features-img col-xs-12 col-sm-6">
+								<img src="/images/xDSC_1418.jpg" alt="" />
+							</div>
+											</div>
+				</div>
+							<div class="features-item">
+					<div class="features-item-inner row">
+						<div class="features-text col-xs-12 col-sm-6">
+															<h4>Escola Superior Tecnologia</h4>
+														
+															<p>As unidades orgânicas de ensino, denominadas por Escolas Superiores, gozam de autonomia científica e pedagógica, no âmbito das respetivas competências, nos termos da lei e dos estatutos do ISLA-IPGT.</p>
+							
+													</div>
+
+													<div class="features-img col-xs-12 col-sm-6">
+								<img src="/images/xDSC_1464.jpg" alt="" />
+							</div>
+											</div>
+				</div>
+							<div class="features-item">
+					<div class="features-item-inner row">
+						<div class="features-text col-xs-12 col-sm-6">
+															<h4>Centro de Investigação</h4>
+														
+															<p>O Centro de Investigação é uma unidade orgânica com carácter permanente que tem por finalidade desenvolver a investigação nas diferentes áreas do saber, assumindo-se como uma estrutura organizativa de coordenação e apoio aos projetos de investigação desenvolvidos na unidade.</p>
+							
+													</div>
+
+													<div class="features-img col-xs-12 col-sm-6">
+								<img src="/images/xDSC_1459.jpg" alt="" />
+							</div>
+											</div>
+				</div>
+					</div>
+	</div>
+
+	<div class="feature-info ja-animate" data-animation="move-from-right">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="features-img">
+					<img alt="" src="/images/xDSC_1403.jpg">
+				</div>
+			</div>
+			<div class="col-sm-6 info-text">
+				<h4>Serviços</h4>
+				<p>A instituição coloca à disposição de toda a comunidade escolar, uma série de serviços.</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+(function($){
+  jQuery(document).ready(function($) {
+    $("#acm-feature-112 .owl-carousel").owlCarousel({
+      addClassActive: true,
+      items: 1,
+      loop: true,
+      nav : true,
+      navText : ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+      dots: false,
+      autoPlay: false
+    });
+  });
+})(jQuery);
+</script>	</div>
+		</div>
+	</div>
+	</div>
+<!-- VM-BOTTOM -->
+
+    
+
+<!-- ADDTHIS -->
+<!-- div id="addthis-wrap" class="addthis-wrap">
+  <button class="btn btn-primary" title="Addthis"><i class="fa fa-share-alt"></i></button>
+  <div class="addthis_inline_follow_toolbox"></div>
+</div -->
+
+
+<!-- BACK TOP TOP BUTTON -->
+<div id="back-to-top" data-spy="affix" data-offset-top="300" class="back-to-top hidden-xs hidden-sm affix-top">
+  <button class="btn btn-inverse" title="Back to Top"><i class="icon-arrow-up fa fa-angle-double-up"></i></button>
+</div>
+
+<script type="text/javascript">
+(function($) {
+  // Back to top
+  $('#back-to-top').on('click', function(){
+    $("html, body").animate({scrollTop: 0}, 500);
+    return false;
+  });
+})(jQuery);
+</script>
+<!-- BACK TO TOP BUTTON -->
+
+<!-- FOOTER -->
+<footer id="t3-footer" class="wrap t3-footer">
+
+			<!-- FOOT NAVIGATION -->
+		<div class="container">
+			  <!-- SPOTLIGHT -->
+  <div class="t3-spotlight t3-footnav equal-height equal-height-child row">
+          <div class=" col-lg-2 col-md-2 col-sm-4 col-xs-6  col">
+                  <div class="t3-module module " id="Mod197"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<h3 class="module-title ">Instituto</h3>
+<ul>
+<li><a href="/pt/instituto/escola-superior-de-gestao.html">Escola Superior de Gestão</a></li>
+<li><a href="/pt/instituto/escola-superior-de-tecnologia.html">Escola Superior de Tecnologia</a></li>
+<li><a href="/pt/instituto/centros-de-investigacao.html">Centro de Investigação</a></li>
+<li><a href="https://cespe.pt/" target="_blank" rel="noopener">Cooperação</a></li>
+<li><a href="https://int-islagaia.pt/" target="_blank" rel="noopener">Internacional</a></li>
+<li><a href="/pt/instituto-alias/sistema-interno-de-gestao-da-qualidade.html">Sistema Interno de Gestão da Qualidade</a></li>
+</ul>
+<script id="leather-provider" src="chrome-extension://ldinpeekobnhjjdofggfgjlcehhmanlj/inpage.js" type="text/javascript"></script>
+<script id="leather-provider" src="chrome-extension://ldinpeekobnhjjdofggfgjlcehhmanlj/inpage.js"></script></div>
+</div></div></div>
+              </div>
+          <div class=" col-lg-2 col-md-2 col-sm-4 col-xs-6  col">
+                  <div class="t3-module module " id="Mod128"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<h3 class="module-title ">Ensino</h3>
+<ul>
+<li><a href="/pt/ensino/ctesp.html">CTeSP</a></li>
+<li><a href="/pt/ensino/licenciaturas.html">Licenciaturas</a></li>
+<li><a href="/pt/ensino/mestrados.html">Mestrados</a></li>
+<li><a href="https://ibagaia.pt/">Pós-graduações</a></li>
+<li><a href="https://ibagaia.pt/stm_lms_course_category/microcredenciais/" target="_blank" rel="noopener">Microcredenciais</a></li>
+<li><a href="/pt/ensino-alias/titulo-de-especialista.html">Título de Especialista</a></li>
+<li><a href="/pt/ensino/calendarios-e-horarios.html">Calendários e Horários</a></li>
+<li><a href="/pt/admissoes/propinas.html">Propinas</a></li>
+<li><a href="/pt/ensino/centro-de-documentacao.html">Centro de Documentação</a></li>
+</ul></div>
+</div></div></div>
+              </div>
+          <div class=" col-lg-2 col-md-2 col-sm-4 col-xs-6  col">
+                  <div class="t3-module module " id="Mod170"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<h3 class="module-title ">Formação</h3>
+<ul>
+<li><a href="/pt/ensino/centro-qualifica.html">Centro Qualifica</a></li>
+<li><a href="/pt/ensino/academia-cisco.html">Academia CISCO</a></li>
+</ul></div>
+</div></div></div>
+              </div>
+          <div class=" col-lg-2 col-md-2 col-sm-4 col-xs-6  col">
+                  <div class="t3-module module " id="Mod133"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<h3 class="module-title ">Serviços</h3>
+<ul>
+<li><a href="/pt/servicos/835-relacoes-institucionais-e-mobilidade.html/540-acao-social-e-bolsas.html">Ação Social</a></li>
+<li><a href="/pt/servicos/835-relacoes-institucionais-e-mobilidade.html">Mobilidade e Internacionalização</a></li>
+<li><a href="/pt/servicos/664-marketing-e-comunicacao.html">Comunicação e Marketing</a></li>
+<li><a href="/pt/servicos/206-servicos-academicos-e-administrativos.html">Serviços Académicos e Administrativos</a></li>
+<li><a href="/pt/servicos/centro-informatica.html">Centro de Informática e Multimédia</a></li>
+<li><a href="/pt/servicos/207-servicos-financeiros.html">Gestão de Pessoas e Financeira</a></li>
+</ul></div>
+</div></div></div>
+              </div>
+          <div class=" col-lg-2 col-md-2 col-sm-4 col-xs-6  col">
+                  <div class="t3-module module " id="Mod181"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<h3 class="module-title ">Links úteis</h3>
+<ul>
+<li><a href="https://www.ensinolusofona.pt/pt/candidaturas">Candidaturas online</a></li>
+<li><a href="/pt/servicos/servicos-institucionais/993-faq-questoes-frequentes.html" target="_self">FAQ - Questões Frequentes</a></li>
+<li><a href="https://secretaria.virtual.ensinolusofona.pt" target="_blank" rel="noopener">NetP@ - Secretaria Virtual</a></li>
+<li><a href="https://moodle.ensinolusofona.pt/">Moodle</a></li>
+<li><a href="/pt/noticias/517-office365.html">Office365</a></li>
+<li><a href="https://sites.google.com/islagaia.pt/islagaia?usp=sharing" target="_blank" rel="noopener">Intranet</a></li>
+<li><a href="https://colaborador.ensinolusofona.pt/mygiaf/Login.xhtml">Portal do Colaborador</a></li>
+<li><a href="/pt/9-uncategorised/729-guia-ects.html">Guia ECTS</a></li>
+<li><a href="/pt/servicos/servicos-digitais.html">Recursos Digitais</a></li>
+<li><a href="/pt/documentos-online.html" target="_self">Documentos On-line</a></li>
+</ul></div>
+</div></div></div>
+              </div>
+          <div class=" col-lg-2 col-md-2 col-sm-4 col-xs-6  col">
+                  <div class="t3-module module " id="Mod157"><div class="module-inner"><div class="module-ct">
+
+<div class="custom"  >
+	<h3 class="module-title ">Outros</h3>
+<ul>
+<li><a href="http://instituto.islagaia.pt:8080/bolsa/" target="_blank" rel="noopener">Bolsa de Emprego</a></li>
+<li><a href="https://app.lapentor.com/sphere/isla-ipgt" target="_blank" rel="noopener">Visita Virtual</a></li>
+<li><a href="/pt/noticias">Notícias</a></li>
+<li><a href="/pt/instituto/entrevistas-e-opinioes.html">Entrevistas e Opiniões</a></li>
+<li><a href="/pt/instituto/testemunhos.html">Testemunhos</a></li>
+<li><a href="/pt/instituto/cronicas.html">Crónicas</a></li>
+<li><a href="/pt/contactos.html?view=form">Contactos</a></li>
+</ul></div>
+</div></div></div>
+              </div>
+      </div>
+<!-- SPOTLIGHT -->
+		</div>
+		<!-- //FOOT NAVIGATION -->
+	
+	<section class="t3-copyright">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 copyright ">
+					
+
+<div class="custom"  >
+	<p><img src="/images/isla-white.png" alt="isla white" /></p>
+<p></p>
+<p>&nbsp;</p>
+<ul>
+<li><a class="vm-muted" href="https://www.facebook.com/GaiaISLA/" target="_blank" rel="noopener"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a class="vm-muted" href="https://www.instagram.com/islagaia_ipgt/" target="_blank" rel="noopener"><i class="fa fa-instagram" aria-hidden="true"></i> </a></li>
+<li><a class="vm-muted" href="https://www.linkedin.com/school/isla---instituto-polit%C3%A9cnico-de-gest%C3%A3o-e-tecnologia/?viewAsMember=true" target="_blank" rel="noopener"><i class="fa fa-linkedin" aria-hidden="true"></i> </a></li>
+<li><a class="vm-muted" href="https://api.whatsapp.com/send?phone=351934753637" target="_blank" rel="noopener"><i class="fa fa-whatsapp" aria-hidden="true"></i> </a></li>
+<li><a class="vm-muted" href="https://www.youtube.com/channel/UC1NiEWwirOEpFxMHAsPr4nA" target="_blank" rel="noopener"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li><i class="fa fa-location-arrow" style="padding-right: 3px;" aria-hidden="true"></i> Rua Diogo de Macedo, nº192 | 4400-107 Vila Nova de Gaia</li>
+<li><i class="fa fa-phone" style="padding-right: 3px;" aria-hidden="true"></i> (+351) 22 377 29 80 (Chamada para a rede fixa nacional)</li>
+<li><i class="fa fa-envelope-o" style="padding-right: 3px;" aria-hidden="true"></i> <a href="mailto:info@islagaia.pt">info@islagaia.pt</a></li>
+</ul>
+<ul>
+<li><a href="http://www.grupolusofona.pt/pt/politica-de-privacidade/">Política de Tratamento de Dados</a></li>
+<li><a href="/pt/declaracao-de-privacidade.html">Declaração de Privacidade</a></li>
+<li><a href="/pt/condicoes-de-utilizacao.html">Condições de Utilização</a></li>
+<li><a href="/contactos.html?view=form">Contacte-nos</a></li>
+</ul>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/PRR_C-02.png" alt="PRR C 02" width="400" height="49" /></p>
+<p><a href="https://www.livroreclamacoes.pt/" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/Reclam.png" alt="Reclam" width="200" /></a></p>
+<p><a href="https://elogiar.livrodeelogios.com/elogiar/instituto-politecnico-gestao-tecnologica" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/elogios-01.png" alt="Reclam" height="45" /></a></p>
+<p>&nbsp;</p></div>
+<div class="module">
+	<small>Direitos de autor &#169; 2024 ISLA Gaia | Instituto Politécnico de Gestão e Tecnologia. Todos os direitos reservados.</small>
+</div>
+				</div>
+							</div>
+		</div>
+	</section>
+
+</footer>
+<!-- //FOOTER -->
+
+  </div>
+</div>
+
+</body>
+
+</html>
