@@ -1,12 +1,5 @@
-var mysql = require('mysql');
-
-var connection = mysql.createConnection({
-  host: "localhost",
-  user: "root",
-  password: "your_password",
-  database: "escoladb"
-
-});
+/* Export the module for connection to the DB */
+const connection = require('./module-db-connection');
 
 connection.connect(function(err, result){
   if(err) throw err;
