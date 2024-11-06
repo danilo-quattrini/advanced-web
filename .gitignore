@@ -1,5 +1,5 @@
 .DS_Store
 HTML-IslaGaia.txt
-../.DS_Store
-../node_modules
-node_modules
+exercisesPresented/.DS_Store
+exercisesPresented/node_modules
+exercisesPresented/*.json

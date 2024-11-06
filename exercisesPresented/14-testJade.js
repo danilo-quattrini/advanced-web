@@ -1,7 +1,7 @@
 let express = require('express');
 let app = express();
 
-app.set('view engine', 'pug ');
+app.set('view engine', 'pug');
 
 app.get('/', function(req, res){
   res.render('index', {title: 'IslaGaia', message: 'Welcome!'})

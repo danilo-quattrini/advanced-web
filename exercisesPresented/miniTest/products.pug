@@ -1,0 +1,19 @@
+doctype html
+html
+  head
+    title= title
+  body
+    h1= title
+    table
+      tr
+        th ID
+        th Product Name
+        th Description
+        th Price
+      each product in products
+        tr
+          td= product.ID
+          td= product.product_name
+          td= product.description
+          td= product.price
+    a(href="/") Back to Home
