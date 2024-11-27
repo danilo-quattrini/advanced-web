@@ -3,4 +3,5 @@ HTML-IslaGaia.txt
 exercisesPresented/.DS_Store
 exercisesPresented/node_modules
 exercisesPresented/*.json
-../.idea/*
+.idea/*
+.idea/
